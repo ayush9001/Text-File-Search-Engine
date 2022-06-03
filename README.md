@@ -1,6 +1,5 @@
 # Text-File-Search-Engine
 A software tool, allowing you to quickly and easily search text in files on your computer. It was inspired by search engines like Google, Bing and YouTube. User inputs search query and the program goes through all files and checks if any matches found. Then it displays the titles of all files that match the searched term in order of relevance (page rank). 
-This project helped me better understand concepts of information retrieval, file handling, exception handling and object oriented programming.
 --------------------------------------------------
 The following files are mandatory for the program to function:-
 - "searchEngine[version_number].py" is the main application file.  
@@ -22,3 +21,5 @@ User Flow:-
 Cool stuff:-
 - On typing the command "developer", user can turn on the developer mode! This mode allows the user to view extra details during the search operation such as page rank, relevancy, frequency of occurence of each word, etc.
 - There are some interesting features such as showing command history, quick last command, changing username, changing path, etc.
+--------------------------------------------------
+This was my first major software project which took me around 10 days to develop. It helped me practically understand concepts of information retrieval, file handling, exception handling and object oriented programming.
