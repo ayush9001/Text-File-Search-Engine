@@ -1,0 +1,30 @@
+Computer Science
+Computer science (sometimes called computation science) is the study of processes that interact with data and that can be represented as data in the form of programs. It enables the use of algorithms to manipulate, store, and communicate digital information. A computer scientist studies the theory of computation and the practice of designing software systems.[1]
+
+Its fields can be divided into theoretical and practical disciplines. Computational complexity theory is highly abstract, while computer graphics emphasizes real-world applications. Programming language theory considers approaches to the description of computational processes, while software engineering involves the use of programming languages and complex systems. Human–computer interaction considers the challenges in making computers useful, usable, and accessible.
+
+As a discipline, computer science spans a range of topics from theoretical studies of algorithms and the limits of computation to the practical issues of implementing computing systems in hardware and software.[49][50] CSAB, formerly called Computing Sciences Accreditation Board—which is made up of representatives of the Association for Computing Machinery (ACM), and the IEEE Computer Society (IEEE CS)[51]—identifies four areas that it considers crucial to the discipline of computer science: theory of computation, algorithms and data structures, programming methodology and languages, and computer elements and architecture. In addition to these four areas, CSAB also identifies fields such as software engineering, artificial intelligence, computer networking and communication, database systems, parallel computation, distributed computation, human–computer interaction, computer graphics, operating systems, and numerical and symbolic computation as being important areas of computer science.
+
+Fields
+Theoretical computer science:-
+Data structures and algorithms
+Theory of computation
+Information and coding theory
+Programming language theory
+Formal methods
+
+Computer systems:-
+Computer architecture and computer engineering
+Computer performance analysis
+Concurrent, parallel and distributed systems
+Computer networks
+Computer security and cryptography
+Databases
+
+Computer applications:-
+Computer graphics and visualization
+Human–computer interaction
+Scientific computing and simulation
+Artificial intelligence
+Software engineering
+

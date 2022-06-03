@@ -1,0 +1,68 @@
+                Commands Documentation
+
+Main commands
+--------------------
+1. search
+    Executes the search operation. It first prompts you to enter a few search words. Upon entering, it looks into every pagefile located in the "/Pages" directory. Based on different statistics the program gives a rank to that page and displays them in order of ranking. You can open a page by entering the number specified beside its title. Entering -1 will clear any loaded contents of pages as well as everything diplayed on screen before the search operation started. Entering 0 will exit search operation.
+
+2. newpage
+    Using this you can create your own new page by adding a title and the contents.
+
+3. help
+    Displays the help manual.
+
+4. commands
+    Displays a documentation on all the commands that can be used within the command line, as well as 
+
+5. l (lowercase L)
+    Executes the last valid command entered, provided that it is present in the command history. If the history is clear, then no command is executed.
+
+6. version
+    Displays the name and version of this program.
+
+7. path
+    Displays the path of this program. For example, if you have installed this program in 'C:/File Search Engine/', then it will display that address.
+
+8. change path
+    You can use this to change the path by entering a path in the prompt. Only valid paths are accepted by the program. Changing path will copy all the required dependencies, directories, files and even the program itself to the new path.
+
+9. change user
+    Change the username
+
+10. clear
+    Clears the terminal screen. If you are running this program in an IDE, then this function may not work. It's best to run the .exe file or run this program as a python file if python is installed.
+
+11. history
+    Displays the command history as well as the date and time of entering the first command within the history.
+
+12. clear history
+    Clears the command history.
+
+13. clear all
+    Clears the terminal screen as well as the history.
+
+14. developer
+    Turns on developer edition, a cool mode in which some extra details are displayed when the search operation is executed. This mode was useful during the testing of the search algorithm. If you are already in developer mode then this command will switch it back to normal mode.
+
+15. exit
+    Closes the program.
+
+
+Page input commands
+--------------------
+Following commands are used when writing a new page.
+These commands will only work when you type them at the end of the line and press enter.
+for example:
+"endtext [contents]" (will not work)
+"[contents] endtext" (will work)
+"endtext" (will work)
+
+1. backline
+    Backspace wont work to go to previous lines, hence this command. It will take the cursor to the previous line by removing current line and previous line as well.
+
+2. endtext
+    Writing this command will end the contents input and save the page. The word endtext won't be saved in the page.
+
+NOTE:
+For some reason, if you are in a situation where you want to use the words backline or endtext  at the end of a line and still continue with more lines, then you can add a forward slash '/' before the commands such as '/backline' and '/endtext'
+	

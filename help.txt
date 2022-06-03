@@ -1,0 +1,29 @@
+Welcome to the Help Manual
+-----------------------------
+
+About this software:-
+File Search Engine is a tool designed to search for information within text files. It is a simulation of web search engines such as Google and Bing, however, it only searches through information in a local file based system. With this program, you can try searching by using different keywords to get desired page from existing pagefiles or create your own new pagefiles.
+
+-----------------------------
+
+Getting started:-
+This program uses command line interface. 
+
+To get started, you need to know just a few commands to use this software.
+
+The most basic commands are:
+1. search
+    Execute the search operation,
+
+2. newpage
+    Create a new page.
+
+3. exit
+    Close the program
+
+-----------------------------
+
+Commands:-
+There are a few more commands which can help you use this software much more efficiently, and don't worry, there aren't as many commands as in Linux to learn.
+
+Enter 'commands' on a new line to get documentation on available commands.
