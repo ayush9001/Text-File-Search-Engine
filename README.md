@@ -18,9 +18,18 @@ python SearchEngine.py
 - Create a new user account by entering name.
 - Get familiar with the program by typing "help" which will load up some basic info and commands.
 - Type the "search" command to start the search operation.
+
+![op1](https://user-images.githubusercontent.com/55421311/189700482-31932232-14f6-4e32-b076-5d080717daf0.png)
+
 - On the prompt, type the search query. The query will be broken down into words.
 - Titles of relevant documents are displayed in order of relevance numbered from 1,2,3..., 1 being the most relevant. (Relevancy depends on factors such as the frequency of occurence of words matched from the query to the document.)
+
+![op2](https://user-images.githubusercontent.com/55421311/189700511-274a8160-0803-4865-b1ef-0289371b3138.png)
+
 - On entering the number of the desired document the contents of the document will load up. 
+
+![op3](https://user-images.githubusercontent.com/55421311/189699908-6eacff3b-b805-4526-94d9-1078d32031a2.png)
+
 - Entering 0 will close the search operation.
 --------------------------------------------------
 Cool stuff:-
