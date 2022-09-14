@@ -9,7 +9,7 @@ The following files are mandatory for the program to function:-
 - Lastly, the "Pages" folder contains text files which can be retrieved from the search engine.
 Note: A text file in the Pages is treated as a document to be retrieved. The first line of the file is the Title of the document while the rest of the lines are its contents.
 --------------------------------------------------
-How to use:-
+# How to use:-
 - Clone/Download the repository.
 - Run the program "SearchEngine.py" in Python
 ```
@@ -32,7 +32,7 @@ python SearchEngine.py
 
 - Entering 0 will close the search operation.
 --------------------------------------------------
-Cool stuff:-
+# Cool stuff:-
 - On typing the command "developer", user can turn on the developer mode! This mode allows the user to view extra details during the search operation such as page rank, relevancy, frequency of occurence of each word, etc.
 - There are some interesting features such as showing command history, quick last command, changing username, changing path, etc.
 --------------------------------------------------
